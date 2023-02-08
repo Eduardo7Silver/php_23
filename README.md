@@ -2,6 +2,7 @@
 ## Primeiro commit.
 ### Testando as modificacoes
 #### T
+hwhhehoggh
 1 - Verificar se estamos no ubunto
 2 - File - Open folder
 2.1 - apaga o conteudo
@@ -16,7 +17,8 @@
 7.1 - acessar o navegador com localhost ou 127.0.0.1 
 7.2 - sudo service apache2 status [ apache is running]
 7.3 - sudo service apache2 start.
-7.4 - executar novamente os passos 7.1 e 7.2
+7.4 - executar novamente os passos 7.1 e 7.2   gggfggggwefg
+j4tu45iti54io
 ## Para salvar no github
 1- git add . [ . = todos os arquivos ou especificar por nome  ex : git add index.php}
 2-git commit -m " DESCREVER O QUE FOi FEITO " ]
@@ -46,3 +48,9 @@ Ex:
   1 - git checkout "develop"
   2 - git pull "develop"
   3 - git merge "main"
+  uhgghegfgegfge
+
+  qwdryortu3i
+  3u8ru
+
+  3i9uui3ui2r
