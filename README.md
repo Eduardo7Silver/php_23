@@ -54,3 +54,12 @@ Ex:
   3u8ru
 
   3i9uui3ui2r
+  ID/ codigo PK - Primary key
+  1- user_name
+  2- user_status
+  3- user_fullname
+  4- user_pass
+  5- user_email
+  6- user_rank
+  7- user_departament
+  
