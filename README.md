@@ -1,8 +1,4 @@
 # php_23
-## Primeiro commit.
-### Testando as modificacoes
-#### T
-hwhhehoggh
 1 - Verificar se estamos no ubunto
 2 - File - Open folder
 2.1 - apaga o conteudo
@@ -29,7 +25,6 @@ j4tu45iti54io
 ## TESTE SILVER
 # TESTE GOLD
 # TESTE KILLEER
-8888888888888888888888
 # TESTE SOCIEDADE
 # PARA O MERGE 
 1 - git checkout NOME_ BRANCH
@@ -40,21 +35,17 @@ j4tu45iti54io
 4.2 - Sem conflito: so executar o push
 5 - git push
 Ex:
- Estamos na branch "develop" e queremos levar as mudancas pata a main/master
+# Estamos na branch "develop" e queremos levar as mudancas pata a main/master
  1 - git checkout main
  2 - git oull main 
  3 - git merge develop
-  Estamos na branch "main" e queremos levar para as mudancas para a develop
+#  Estamos na branch "main" e queremos levar para as mudancas para a develop
   1 - git checkout "develop"
   2 - git pull "develop"
   3 - git merge "main"
-  uhgghegfgegfge
 
-  qwdryortu3i
-  3u8ru
 
-  3i9uui3ui2r
-  ID/ codigo PK - Primary key
+#  ID/ codigo PK - Primary key
   1- user_name
   2- user_status
   3- user_fullname
@@ -62,4 +53,9 @@ Ex:
   5- user_email
   6- user_rank
   7- user_departament
+  
+  # DBEAVER 
+  - Aluno
+  - qwe123!
+
   
